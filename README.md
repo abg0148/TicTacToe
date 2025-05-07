@@ -2,7 +2,6 @@
 
 This project is a Python-based command-line game that supports multiple modes of play. Players interact with a virtual grid to make moves, and the game can be played repeatedly. The program is designed to provide a smooth gaming experience, with easy setup and intuitive gameplay mechanics.
 
----
 
 ## Features
 
@@ -11,7 +10,6 @@ This project is a Python-based command-line game that supports multiple modes of
 - **Replay Option**: After a match, the game prompts for replayability.
 - **Dynamic Grid Interaction**: The game board updates in real-time and displays moves as they are played.
 
----
 
 ## How to Run the Game
 
@@ -24,7 +22,6 @@ This project is a Python-based command-line game that supports multiple modes of
    ```
 5. Follow the on-screen prompts to set up and play the game.
 
----
 
 ## Class Overview
 
@@ -67,7 +64,6 @@ The project is organized around the following key classes:
   - `evaluate`: Checks for game-winning conditions or a tie.
   - `play`: Manages the main loop for running the game.
 
----
 
 ## How the Game Works
 
@@ -76,13 +72,11 @@ The project is organized around the following key classes:
 3. The game state is updated dynamically, and a win or tie condition is evaluated at the end of each turn.
 4. After each match, you're given the option to restart or exit.
 
----
 
 ## Prerequisites
 
 - Python 3.6 or higher
 
----
 
 ## Contributing
 
@@ -99,5 +93,3 @@ Contributions are welcome! If you'd like to improve this game or add new feature
 ## License
 
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
-
----
