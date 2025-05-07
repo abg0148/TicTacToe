@@ -6,7 +6,7 @@ This project is a Python-based command-line game that supports multiple modes of
 ## Features
 
 - **Interactive Gameplay**: Players take turns making moves in a grid-based game.
-- **Multiple Play Modes**: Choose between different player types, including human players and bots.
+- **Multiple Play Modes**: Choose between different player types, including human players and bots (NOT YET AVAILABLE).
 - **Replay Option**: After a match, the game prompts for replayability.
 - **Dynamic Grid Interaction**: The game board updates in real-time and displays moves as they are played.
 
